@@ -15,6 +15,10 @@
       {   "id": "sapalma", 
           "name": "Sergio Palma",
           "linkToken": ""
+      },
+      {   "id": "lipalma", 
+          "name": "Liza Palma",
+          "linkToken": ""
       }
   ]
 }
