@@ -1,0 +1,20 @@
+{
+  "users": [
+      {   "id": "vipalma", 
+          "name": "Viktor Palma",
+          "linkToken": ""
+      },
+      {   "id": "mirebechi", 
+          "name": "Milena Rebechi",
+          "linkToken": ""
+      },
+      {   "id": "lipetrovic", 
+          "name": "Liuba Petrovic",
+          "linkToken": ""
+      },
+      {   "id": "sapalma", 
+          "name": "Sergio Palma",
+          "linkToken": ""
+      }
+  ]
+}
